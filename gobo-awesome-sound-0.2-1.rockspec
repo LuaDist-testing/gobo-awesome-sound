@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "gobo-awesome-sound"
-version = "0.1-1"
+version = "0.2-1"
 -- LuaDist source
 source = {
-  tag = "0.1-1",
+  tag = "0.2-1",
   url = "git://github.com/LuaDist-testing/gobo-awesome-sound.git"
 }
 -- Original source
 -- source = {
 --    url = "git+https://github.com/gobolinux/gobo-awesome-sound.git",
---    tag = "0.1",
+--    tag = "0.2"
 -- }
 description = {
    detailed = "An ALSA sound widget for Awesome WM, designed for [http://gobolinux.org](GoboLinux).",
